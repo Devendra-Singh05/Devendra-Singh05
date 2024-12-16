@@ -1,4 +1,4 @@
-## Hi 👋 I'm Devendra Singh
+## Hi 👋 
 
 <!--
 **Devendra-Singh05/Devendra-Singh05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
